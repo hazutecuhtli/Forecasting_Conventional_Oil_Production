@@ -12,10 +12,12 @@ Hence, it is important to understand the behavior of hydrocarbon production in o
 
 ## 📁 Repository Structure
 
+```text
 ├── Notebook_Forecasting_Oil_Production.ipynb  # Main notebook with the full implementation
 ├── utils_forecasting.py                       # Auxiliary functions and model utilities
-├── data/                                      # Folder for preprocessed or original datasets
-└── README.md                                  # You are here!
+├── data/                                      # Folder containing PEMEX oil production
+└── README.md                                  # You are here! :)
+```
 
 ## 🛠️ Technologies Used
 
